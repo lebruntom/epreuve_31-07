@@ -1,0 +1,16 @@
+.flex {
+  display: flex;
+  align-items: center;
+}
+.flex div {
+  margin: 10px;
+}
+.book-image {
+  height: 150px;
+}
+.containerdd {
+  margin: 50px;
+}
+.margin_top {
+  margin-top: 50px;
+}
